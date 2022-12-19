@@ -34,9 +34,6 @@ pip install cryptography
 pip install paramiko
 ```
 ```bash
-pip install functions
-```
-```bash
 pip install json
 ```
 ```bash
