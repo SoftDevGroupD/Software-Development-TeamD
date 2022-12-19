@@ -29,6 +29,9 @@ pip install dict2xml
 ```
 ```bash
 pip install cryptography
+```bash
+pip install pickle
+```
 ```
 ```bash
 pip install paramiko
